@@ -28,7 +28,8 @@ font-style: normal;
 footer { 
     position: fixed; /* On absolute a toi de voir */
     bottom: 0px;
-    height: 7680px;    /**hauteur de ton image */
+    left: 0px;
+    height: 100%;    /**hauteur de ton image */
     width : 2306px;    /** Largeur de ton image */
-    background-image:url(https://i.goopics.net/29YEK.png);
+    background-image:url(https://i.goopics.net/29YEK.png)no-repeat center center;
 }
